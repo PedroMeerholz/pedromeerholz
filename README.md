@@ -1,5 +1,5 @@
 # Hello, I'm Pedro Meerholz
-<p>💻 I am currently studying Java<br> 🎓 studying Systems Analysis and Development</p>
+<p>💻 I am currently studying Java<br>🎓 Studying Systems Analysis and Development</p>
 
 # My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeerholz&show_icons=true&theme=dark)
@@ -14,7 +14,6 @@
   <img height="60" weight= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 </div>
 <br>
-</div>
 <br>
 
 ## Contact me
