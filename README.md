@@ -1,5 +1,5 @@
 # Hello, I'm Pedro Meerholz
-<p>💻 I am currently studying Java<br>🎓 Studying Systems Analysis and Development</p>
+<p>💻 I am currently studying Docker and JavaScript<br>🎓 Studying Systems Analysis and Development</p>
 
 # My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeerholz&show_icons=true&theme=dark)
