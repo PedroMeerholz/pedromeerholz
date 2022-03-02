@@ -1,5 +1,5 @@
 # Hello, I'm Pedro Meerholz
-<p>💻 I am currently studying Docker and JavaScript<br>🎓 Studying Systems Analysis and Development</p>
+<p>💻 I am currently studying Docker, SQL, PHP, HTML5 and CSS3<br>🎓 Studying Systems Analysis and Development</p>
 
 # My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeerholz&show_icons=true&theme=dark)
@@ -8,7 +8,8 @@
 <div style="disply: inline-block">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img height="60" weight= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 </div>
 <br>
 <br>
