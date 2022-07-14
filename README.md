@@ -1,6 +1,7 @@
 # Hello, I'm Pedro Meerholz
 <p>🎓 Graduating in Systems Analysis and Development</p>
 <p>💻 I am currently studying python, data analysis and machine learning.</p>
+<a href='https://www.kaggle.com/pedrovinciusmeerholz'>Access my Kaggle Profile</a>
 
 # My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeerholz&show_icons=true&theme=dark)
