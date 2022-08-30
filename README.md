@@ -3,9 +3,6 @@
 <p>💻 I am currently studying python, data analysis and machine learning.</p>
 <a href='https://www.kaggle.com/pedrovinciusmeerholz'>Access my Kaggle Profile</a>
 
-# My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeerholz&show_icons=true&theme=dark)
-
 # Languages
 <div style="display: inline-block">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
