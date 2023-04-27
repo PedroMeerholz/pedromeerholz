@@ -11,15 +11,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PedroMeerholz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## Learning
-<div style="display: inline-block">
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-</div>
-
 ## Languages
 <div style="display: inline-block">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
   <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ## Data Analysis
@@ -50,6 +46,3 @@
 </div>
 <br>
 <br>
-
-## Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&url=https://www.linkedin.com/in/pedromeerholz/)](https://www.linkedin.com/in/pmeerholz/)
