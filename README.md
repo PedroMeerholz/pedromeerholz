@@ -11,38 +11,40 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PedroMeerholz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## Languages
-<div style="display: inline-block">
+<br/>
+<div align="center">
+  <h2>Languages, Frameworks and Libraries</h2>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-## Data Analysis
-<div style="display: inline-block">
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-</div>
-
-## Databases
-<div style="display: inline-block">
+<div align="center">
+  <h2>Databases</h2>
   <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
   <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
 
-## Tools
-<div style="display: inline-block">
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <a href='https://www.kaggle.com/pedrovinciusmeerholz'><img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" /></a>
+<div align="center">
+  <h2>Cloud</h2>
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
 
-## IDEs
-<div style="display: inline-block">
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<div align="center">
+  <h2>Cointainers</h2>
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
-<br>
-<br>
+
+<div align="center">
+  <h2>OS for Development</h2>
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</div>
+
+<div align="center">
+  <h2>Tools</h2>
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+  <img height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+</div>
